@@ -4,7 +4,7 @@
   "description": "Aavegotchi Explorer Demo",
   "main": "main.js",
   "scripts": {
-    "deploy": "gh-pages -d AavegotchiGame"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
