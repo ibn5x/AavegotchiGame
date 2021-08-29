@@ -1,10 +1,10 @@
 {
   "name": "aavegotchigame",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aavegotchi Explorer Demo",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d AavegotchiGame"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/ibn5x/AavegotchiGame/issues"
   },
-  "homepage": "https://github.com/ibn5x/AavegotchiGame#readme",
+  "homepage": "https://ibn5x.github/AavegotchiGame",
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
